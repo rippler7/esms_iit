@@ -1,0 +1,19 @@
+{
+  "name": "msuiit_esms",
+  "version": "1.0.0",
+  "description": "old work on api based enrollment management system",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rippler7/esms_iit.git"
+  },
+  "author": "Jeremy Ancog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rippler7/esms_iit/issues"
+  },
+  "homepage": "https://github.com/rippler7/esms_iit#readme"
+}

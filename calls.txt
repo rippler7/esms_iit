@@ -1,0 +1,6 @@
+SELECT esmsweb.save_semstudent_otherinfo('2014-2015', '2', '1999-0125', '12345', 'xxxx', 793, 41, 1, 1, null,'>30,000 to 40,000' , 'jeremy.ancog')
+
+http://localhost:8282/api_msuiit/apps/v0.1/index.php?class=webesms&action=save_semstudent_otherinfo&token=acd26c936bc3489ec1d6d76d89ba5169&timestamp=2014-10-29%2015:58:42.722532&api_appcode=webesms&user=jeremy.ancog&sy=2014-2015&sem=1&studid=1999-0125&street=bahayan&brgy=luinab&towncity=793&province=41&relcat=5&reldenom=null&relother=Jedi&income=%3E30,000%20to%2040,000
+
+
+http://localhost:8282/api_msuiit/apps/v0.1/index.php?class=webesms&action=save_semstudent_otherinfo&token=acd26c936bc3489ec1d6d76d89ba5169&timestamp=2014-10-29%2015:58:42.722532&api_appcode=webesms&user=jeremy.ancog&sy=2014-2015&sem=1&studid=1999-0125&street=bahayan&brgy=luinab&towncity=793&province=41&relcat=5&reldenom=null&relother=Jedi&income=%3E30,000%20to%2040,000

@@ -1,0 +1,29 @@
+listReligions()
+setSemSY()
+populateDenom()
+populateTownCity()
+createRows(items)
+getParameterByName(name)
+search(stu)
+layOut(studid)
+findSubjects(su)
+createMajList(m)
+delClick(rowId)
+
+
+setEverything(){
+	check if logged
+	check for student name or id
+	if yes {
+		get info of student
+		get otherinfo of student
+		get subjects of student
+	} else {
+		
+	}
+	get CurrentSem
+	get Current SY
+	get townCity
+	get Religions
+}
+

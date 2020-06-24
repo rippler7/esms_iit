@@ -1,0 +1,9 @@
+ADD the following:
+
+1) Add subject functionality
+	-Add subject search
+	
+
+2) Remove subject functionality
+
+3) Save student information functionality

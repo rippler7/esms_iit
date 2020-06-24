@@ -1,0 +1,92 @@
+{
+    "test": "1999-0125",
+    "sem": "1",
+    "sy": "2014-2015",
+    "studinfo": {
+        "studfullname": "ANCOG, JEREMY M.",
+        "studlevel": "4",
+        "progcode": "BSCS",
+        "progdesc": "BACHELOR OF SCIENCE IN COMPUTER SCIENCE",
+        "schcode": "S0000",
+        "schdesc": "Paying",
+        "payment_scheme_year": "2013",
+        "scholasticstatus": "WARNING",
+        "adviser": ""
+    },
+    "studoinfo": {
+        "street": "Lot 1, Block 8, Phase 7, Bahayan",
+        "brgy": "Luinab",
+        "towncity_name": "Iligan City",
+        "towncity_id": "793",
+        "province_name": "Lanao del Norte",
+        "province_id": "41",
+        "religion_categoryname": "Christianity",
+        "religion_category_id": "1",
+        "religionname": "Evangelical",
+        "religion_id": "5",
+        "religion_other": null,
+        "familymonthlyincome": ">30,000 to 40,000"
+    },
+    "studsubjects": [
+        {
+            "sy": "2014-2015",
+            "sem": "1",
+            "studid": "1999-0125",
+            "subjcode": "BIO 1       ",
+            "section": "A1        ",
+            "subjdesc": "Basic Biology",
+            "subjcredit": "3.00",
+            "days": "MTh",
+            "time": "07:30AM-09:00AM",
+            "roomno": "CED-312     "
+        },
+        {
+            "sy": "2014-2015",
+            "sem": "1",
+            "studid": "1999-0125",
+            "subjcode": "CSC 100     ",
+            "section": "CS.1      ",
+            "subjdesc": "Fundamentals of Computing",
+            "subjcredit": "3.00",
+            "days": "TF",
+            "time": "09:00AM-10:00AM",
+            "roomno": "SCS-LR2     "
+        },
+        {
+            "sy": "2014-2015",
+            "sem": "1",
+            "studid": "1999-0125",
+            "subjcode": "CSC 100     ",
+            "section": "CS.1      ",
+            "subjdesc": null,
+            "subjcredit": null,
+            "days": "TF",
+            "time": "03:00PM-04:30PM",
+            "roomno": "IDS-DVT-CNT2"
+        },
+        {
+            "sy": "2014-2015",
+            "sem": "1",
+            "studid": "1999-0125",
+            "subjcode": "ENG 160N    ",
+            "section": "A6        ",
+            "subjdesc": "Creative Writing",
+            "subjcredit": "3.00",
+            "days": "MTh",
+            "time": "03:00PM-04:30PM",
+            "roomno": "CASS-120    "
+        },
+        {
+            "sy": "2014-2015",
+            "sem": "1",
+            "studid": "1999-0125",
+            "subjcode": "MATH 61     ",
+            "section": "A4B42     ",
+            "subjdesc": "Analytic Geometry and Calculus II",
+            "subjcredit": "6.00",
+            "days": "MTThF",
+            "time": "12:00PM-01:30PM",
+            "roomno": "CSM-111     "
+        }
+    ]
+}
